@@ -1,14 +1,26 @@
 {
   "name": "static-site",
   "version": "1.0.0",
-  "description": "",
+  "description": "ReadMe Generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Brandon Sauer",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brandonsauer8/readme-generator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brandonsauer8/readme-generator/issues"
+  },
+  "homepage": "https://github.com/brandonsauer8/readme-generator#readme",
+  "keywords": [
+    "\"readme\"",
+    "\"generator\""
+  ]
 }
