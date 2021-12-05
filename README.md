@@ -14,7 +14,9 @@
   ## Installation 
   You must install Node and Inquirer in order to get this application to run.
   ## Usage 
-  You must open the terminal and type "index.js" to get the application to start. Then follow the prompts in order to generate the README file. Be as descriptive as possible.
+  You must open the terminal and type "index.js" to get the application to start. Then follow the prompts in order to generate the README file. Be descriptive.
+  ![caption](./utils/demonstration.webm)
+  or visit the link to project demonstration video: https://watch.screencastify.com/v/WItwcDM9MKkGeq0kfUrY
   ## License 
    The licence used for this project is MIT
   ## Contributing 
